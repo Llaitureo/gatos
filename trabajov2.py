@@ -60,3 +60,5 @@ while True:
             break
     else:
         print('opción incorrecta.')
+
+#diosito, ayudameeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee.
